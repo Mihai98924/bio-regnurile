@@ -1,0 +1,107 @@
+.table,html,body{
+    width:100%;
+    border:0;
+    padding:0;
+    margin:0;
+    font-family: 'JosefinSans-Regular';
+}
+.table{
+    display: table;
+}
+.top,.main,.bt,.main2{
+	display:table-row;
+}
+.top{
+	height:100px;
+	position: sticky;
+    top: 0;
+}
+.bt{
+	height:30px;
+	background-color:rgb(223,231,209);
+}
+.cell{
+	display:table-cell;
+}
+.cell1 ul li{
+	display: inline-block;
+	padding-top:15px;
+	padding-left:10px;
+	color:rgb(14,28,35);
+}
+#curent{
+	color:rgb(75,115,82);
+}
+.cell1 h1 a{
+	text-decoration: none;
+	color:rgb(14,28,35);
+}
+.cell1 ul li a{
+	color:rgb(14,28,35);
+	text-decoration: none;
+	transition-duration: 0.4s;
+	-webkit-transition-duration: 0.4s;
+}
+.cell1 ul li a:hover{
+	color:rgb(75,115,82);
+}
+.cell1{
+	vertical-align: middle;
+	position: sticky;
+    top: 0;
+	background-color: white;
+	transition-duration: 0.6s;
+	z-index:1;
+}
+.cell1 ul{
+	float:right;
+	margin-right:20px;
+}
+.cell1 h1{
+	float:left;
+	margin-left:19px;
+}
+#titlu{
+	font-family: 'JosefinSans-Light';
+	font-size:33px;
+}
+#question{
+	color:white;
+	font-size:60px;
+	font-weight:bolder;
+    text-shadow:2px 2px 5px grey;
+}
+.cell2{
+	background:url(../imagini/Cqevazj.gif);
+	width:100%;
+	height:600px;
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position: center;
+    background-attachment: fixed;
+    vertical-align: middle;
+    text-align: center;
+}
+.main2{
+	width:100%;
+	height:auto;
+}
+.cell3{
+	padding:40px;
+	background-color:rgb(16,28,35);
+	color:white;
+    font-size:20px;
+    text-indent: 20px;
+}
+.cell3 ol li{
+    text-indent: 0;
+}
+.cell4{
+	vertical-align: middle;
+	text-align: center;
+	font-weight: bold;
+}
+.cell3 ol li a{
+	color:white;
+	text-decoration: none;
+}

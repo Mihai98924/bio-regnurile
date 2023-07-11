@@ -1,0 +1,148 @@
+/*la toate*/
+body{
+	font-family:'JosefinSans-Regular';
+}
+.table{
+	display:table;
+}
+.top,.main,.main2,.buttons{
+	display:table-row;
+	width:100%;
+}
+.cell{
+	display: table-cell;
+}
+body,html,.table{
+	margin:0;
+	border:0;
+	padding: 0;
+	width: 100%;
+}
+.top{
+	width:100%;
+	height:100px;
+	z-index: 3;
+    top: 0px;
+}
+.top h1{
+	font-family: 'JosefinSans-Light';
+	float:left;
+	font-size:33px;
+}
+.top h1 a{
+	text-decoration: none;
+	color:rgb(14,28,35);
+}
+
+.top ul li{
+	padding-top:15px;
+	padding-left:10px;
+	color:rgb(14,28,35);
+	display: inline-block;
+}
+.cell1 ul{
+	float:right;
+	margin-right:20px;
+}
+.cell1 h1{
+	float:left;
+	margin-left:19px;
+}
+.cell1{
+	vertical-align: middle;
+	background-color: white;
+	z-index:3;
+    position: sticky;
+    top: 0;
+}
+.cell1 ul li a{
+	text-decoration: none;
+	color:rgb(14,28,35);
+	transition-duration: 0.4s;
+}
+.cell ul li a:hover{
+	color:rgb(75,115,82);
+}
+#curent{
+	color:rgb(134,87,59);
+}
+/*pana aici*/
+.main{
+    background: url("../imagini/20-juin-5-pleurotes-copie.png");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    height:600px;
+    text-align: center;
+    color:white;
+}
+.cell2{
+    vertical-align: middle;
+    font-size:42px;
+    text-shadow:2px 2px 5px grey;
+}
+a button{
+    background:white;
+    display:inline-block;
+    padding:20px;
+    margin-left:20px;
+    transition-duration: 0.4s;
+    font-weight:bold;
+    border-radius:8px;
+    border:#935eff;
+}
+a button:hover{
+    color:white;
+    transform: scale(1.5);
+}
+#curiozitate{
+    border:#76787a;
+}
+#curiozitate:hover{
+    background:url("../imagini/questionmark.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+.buttons{
+    height:auto;
+    width:100%;
+    background-color:#C8E379;
+    font-family:'JosefinSans-Regular';
+}
+.cell5{
+    vertical-align: middle;
+    padding:30px;
+    text-align: center;
+    font-family:'JosefinSans-Regular';
+}
+#mucegai{
+    border:#ebeb28;
+}
+#mucegai:hover{
+    background:url("../imagini/mucegai.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    
+}
+#ciuperci{
+    border:rgb(134,87,59);
+    background:url("../imagini/20-juin-5-pleurotes-copie.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    color:white;
+}
+#ciuperci:hover{
+    background:url("../imagini/20-juin-5-pleurotes-copie.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+.cell3{
+    padding:20px;
+    height:auto;
+    font-size:20px;
+}

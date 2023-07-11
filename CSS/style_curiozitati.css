@@ -1,0 +1,256 @@
+/*la toate*/
+body{
+	font-family:'JosefinSans-Regular';
+}
+.table{
+	display:table;
+}
+.top,.main,.main2,.buttons{
+	display:table-row;
+	width:100%;
+}
+.cell{
+	display: table-cell;
+}
+body,html,.table{
+	margin:0;
+	border:0;
+	padding: 0;
+	width: 100%;
+}
+.top{
+	width:100%;
+	height:100px;
+	z-index: 3;
+    top: 0px;
+}
+.top h1{
+	font-family: 'JosefinSans-Light';
+	float:left;
+	font-size:33px;
+}
+.top h1 a{
+	text-decoration: none;
+	color:rgb(14,28,35);
+}
+
+.top ul li{
+	padding-top:15px;
+	padding-left:10px;
+	color:rgb(14,28,35);
+	display: inline-block;
+}
+.cell1 ul{
+	float:right;
+	margin-right:20px;
+}
+.cell1 h1{
+	float:left;
+	margin-left:19px;
+}
+.cell1{
+	vertical-align: middle;
+	background-color: white;
+	z-index:3;
+    position: sticky;
+    top: 0;
+}
+.cell1 ul li a{
+	text-decoration: none;
+	color:rgb(14,28,35);
+	transition-duration: 0.4s;
+}
+.cell ul li a:hover{
+	color:rgb(75,115,82);
+}
+#curent{
+	color:#808080;
+}
+/*pana aici*/
+.main,.main2{
+    height:1230px;
+}
+.main{
+    width:50%;
+    float:left;
+    box-sizing: border-box;
+    background:url("../imagini/questionmark.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.main2{
+    width:50%;
+    float:right;
+    box-sizing: border-box;
+    border:50px solid #3e744f;
+    background-color:white;
+    padding:30px;
+    font-size: 20px;
+}
+.main2 p{
+    font-weight:bold;
+    font-size:20px;
+}
+q{
+    font-style: italic;
+}
+.cell3{
+    vertical-align: middle;
+}
+a button{
+    background:white;
+    display:inline-block;
+    padding:20px;
+    margin-left:20px;
+    transition-duration: 0.4s;
+    font-weight:bold;
+    border-radius:8px;
+    border:#935eff;
+}
+a button:hover{
+    color:white;
+    transform: scale(1.5);
+}
+#curiozitate{
+    border:#76787a;
+}
+#curiozitate:hover{
+    background:url("../imagini/questionmark.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+.buttons{
+    height:auto;
+    width:100%;
+    background-color:#C8E379;
+    font-family:'JosefinSans-Regular';
+}
+.cell5{
+    vertical-align: middle;
+    padding:30px;
+    text-align: center;
+    font-family:'JosefinSans-Regular';
+}
+#curiozitate{
+    border:#76787a;
+    background:url("../imagini/questionmark.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    color:white;
+}
+#curiozitate:hover{
+    background:url("../imagini/questionmark.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+#malaria{
+    border: #B0244A;
+}
+#malaria:hover{
+    background:url("../imagini/300px-Malaria.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+#gripa{
+    border:#ACE152; 
+}
+#gripa:hover{
+    background:url("../imagini/flu.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+#vert:hover{
+    background-image: url("../imagini/Cele-14-afectiuni-care-provin-de-la-coloana-vertebrala-1024x1024.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+#nevert:hover{
+    background-image:url("../imagini/trianglify%20(2).png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+#alge{
+    border:#3DAA4B;
+}
+#alge:hover{
+    background:url("../imagini/coperta-alga-klammath.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    color:black;
+}
+#bact{
+    border:blue;
+}
+#bact:hover{
+    background:url("../imagini/bact.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+#protozoare{
+    border:#7ACE7A;
+}
+#protozoare:hover{
+    background:url("../imagini/1200-5455-amoeba-photo3.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#alger{
+    border:#E03C31;
+}
+#alger:hover{
+    background:url("../imagini/red-algae2-sml.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#mucegai{
+    border:#ebeb28;
+}
+#mucegai:hover{
+    background:url("../imagini/mucegai.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    
+}
+#ciuperci{
+    border:rgb(134,87,59);
+}
+#ciuperci:hover{
+    background:url("../imagini/20-juin-5-pleurotes-copie.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+#feriga{
+    border:#88B04B;
+}
+#feriga:hover{
+    background:url("../imagini/feriga_arborescenta_3.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+#angiosperme{
+    border:#964F4C;
+}
+#angiosperme:hover{
+    background:url("../imagini/giphy.gif");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+.cell3 a{
+    color:black;
+}

@@ -1,0 +1,212 @@
+/*la toate*/
+body{
+	font-family:'JosefinSans-Regular';
+}
+.table{
+	display:table;
+}
+.top,.main,.main2,.buttons{
+	display:table-row;
+	width:100%;
+}
+.cell{
+	display: table-cell;
+}
+body,html,.table{
+	margin:0;
+	border:0;
+	padding: 0;
+	width: 100%;
+}
+.top{
+	width:100%;
+	height:100px;
+	z-index: 3;
+    top: 0px;
+}
+.top h1{
+	font-family: 'JosefinSans-Light';
+	float:left;
+	font-size:33px;
+}
+.top h1 a{
+	text-decoration: none;
+	color:rgb(14,28,35);
+}
+
+.top ul li{
+	padding-top:15px;
+	padding-left:10px;
+	color:rgb(14,28,35);
+	display: inline-block;
+}
+.cell1 ul{
+	float:right;
+	margin-right:20px;
+}
+.cell1 h1{
+	float:left;
+	margin-left:19px;
+}
+.cell1{
+	vertical-align: middle;
+	background-color: white;
+	z-index:3;
+    position: sticky;
+    top: 0;
+}
+.cell1 ul li a{
+	text-decoration: none;
+	color:rgb(14,28,35);
+	transition-duration: 0.4s;
+}
+.cell ul li a:hover{
+	color:rgb(75,115,82);
+}
+#curent{
+	color:rgb(75,115,82);
+}
+/*pana aici*/
+.main{
+    
+    background: url("../imagini/animalia.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    background-attachment: fixed;
+    width:100%;
+    height:600px;
+    background-color:rgb(62,116,79);
+    text-align: center;
+}
+.cell2{
+    vertical-align: middle;
+    color:white;
+    text-shadow: 2px 2px 5px grey;
+    font-size:60px;
+}
+.main2{
+    width:100%;
+    box-sizing: border-box;
+    padding:20px;
+    color:white;
+    background-color:rgb(62,116,79);
+    height:600px;
+}
+
+.cell3 h2{
+    text-align:center;
+    font-size:50px;
+    position:absolute;
+    top:37%;
+    left:33%;
+    text-shadow: 2px 2px 5px grey;
+}
+a button{
+    background:white;
+    display:inline-block;
+    padding:20px;
+    margin-left:20px;
+    transition-duration: 0.4s;
+    font-weight:bold;
+    border-radius:8px;
+    border:#935eff;
+}
+a button:hover{
+    color:white;
+    transform: scale(1.5);
+}
+#curiozitate{
+    border:#76787a;
+}
+#curiozitate:hover{
+    background:url("../imagini/questionmark.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+.buttons{
+    height:auto;
+    width:100%;
+    background-color:#C8E379;
+    font-family:'JosefinSans-Regular';
+}
+.cell5{
+    vertical-align: middle;
+    padding:30px;
+    text-align: center;
+    font-family:'JosefinSans-Regular';
+}
+#vert{
+    border:#e0c6a9;
+}
+#vert:hover{
+    background-image: url("../imagini/Cele-14-afectiuni-care-provin-de-la-coloana-vertebrala-1024x1024.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+#nevert:hover{
+    background-image:url("../imagini/trianglify%20(2).png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+.cell3,.cell6{
+    float:left;
+    width:50%;
+    height:300px;
+    padding:20px;
+    vertical-align: middle;
+}
+.cell4,.cell7{
+    float:right;
+    width:50%;
+    height:300px;
+    padding:20px;
+    vertical-align: middle;
+}
+.cell3{
+    background: url("../imagini/cells2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.cell4{
+    background:url("../imagini/public-health-nutrition-PG-course.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.cell6{
+    background:url("../imagini/red-blood-cells.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.cell7{
+    background:url("../imagini/1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.main2 h3{
+    text-align: center;
+    font-size:32px;
+    text-shadow: 2px 2px 5px grey;
+}
+.main2 ul li{
+    font-size: 20px;
+    text-shadow: 2px 2px 5px grey;
+}
+video{
+    width:100%;
+}
+.cell8{
+    font-size: 20px;
+    text-align: center;
+}

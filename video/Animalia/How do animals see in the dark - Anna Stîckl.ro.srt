@@ -1,0 +1,360 @@
+﻿1
+00:00:00,000 --> 00:00:07,000
+Traducător: Alexandra Cote
+Corector: Cristina Nicolae
+
+2
+00:00:06,979 --> 00:00:11,559
+Pentru ochiul uman, noaptea
+lumea este un fundal gri lipsit de formă.
+
+3
+00:00:11,559 --> 00:00:14,312
+Multe animale nocturne, pe de altă parte,
+
+4
+00:00:14,313 --> 00:00:19,599
+trăiesc într-o lume bogată şi variată,
+plină de detalii, forme şi culori.
+
+5
+00:00:19,599 --> 00:00:23,490
+Ce separă, atunci, moliile de oameni?
+
+6
+00:00:23,490 --> 00:00:26,398
+Moliile şi multe alte animale nocturne
+văd noaptea
+
+7
+00:00:26,398 --> 00:00:30,148
+deoarece ochii lor sunt adaptaţi
+să compenseze pentru lipsa luminii.
+
+8
+00:00:30,148 --> 00:00:32,909
+Toţi ochii, nocturni sau nu,
+
+9
+00:00:32,909 --> 00:00:36,757
+depind de fotoreceptorii din retină
+pentru a detecta particule de lumină,
+
+10
+00:00:36,757 --> 00:00:38,937
+cunoscute ca fotoni.
+
+11
+00:00:38,938 --> 00:00:42,969
+Fotoreceptorii raportează informaţia
+despre aceşti fotoni altor celule
+
+12
+00:00:42,969 --> 00:00:44,869
+din retină şi creier.
+
+13
+00:00:44,869 --> 00:00:48,339
+Creierul cerne acea informaţie
+şi o foloseşte să construiască o imagine
+
+14
+00:00:48,339 --> 00:00:50,690
+a mediului înconjurător
+pe care ochiul îl percepe.
+
+15
+00:00:50,691 --> 00:00:54,399
+Cu cât lumina e mai puternică,
+cu atât mai mulţi fotoni ating ochiul.
+
+16
+00:00:54,399 --> 00:00:55,729
+Într-o zi însorită,
+
+17
+00:00:55,729 --> 00:00:59,989
+mai mult de 100 de milioane de fotoni
+sunt disponibili ochiului
+
+18
+00:00:59,989 --> 00:01:02,650
+decât într-o noapte înnorată şi
+lipsită de lumina Lunii.
+
+19
+00:01:02,650 --> 00:01:05,420
+Fotonii nu numai că sunt mai puţin
+numeroşi în întuneric,
+
+20
+00:01:05,420 --> 00:01:08,890
+dar şi ating ochiul într-un mod
+mai puţin sigur.
+
+21
+00:01:08,890 --> 00:01:11,839
+Asta înseamnă că informaţia
+pe care fotoreceptorii o colectează
+
+22
+00:01:11,839 --> 00:01:13,450
+va varia în timp,
+
+23
+00:01:13,450 --> 00:01:15,600
+la fel și calitatea imaginii.
+
+24
+00:01:15,600 --> 00:01:20,619
+În întuneric, încercarea de a detecta
+dispersarea fotonilor sosiți la întâmplare
+
+25
+00:01:20,620 --> 00:01:24,010
+e prea dificillă pentru ochii
+majorităţii animalelor diurne.
+
+26
+00:01:24,010 --> 00:01:27,841
+Dar pentru creaturile nopţii,
+e doar un aspect legat de adaptare.
+
+27
+00:01:27,841 --> 00:01:31,390
+Una dintre aceste adaptări
+este mărimea.
+
+28
+00:01:31,391 --> 00:01:35,980
+De exemplu tarsierul, cu globii oculari
+la fel de mari ca și creierul,
+
+29
+00:01:35,980 --> 00:01:39,990
+cei mai mari ochi în comparaţie cu mărimea
+capului dintre toate mamiferele.
+
+30
+00:01:39,990 --> 00:01:42,461
+Dacă oamenii ar avea
+acelaşi raport ochi-creier,
+
+31
+00:01:42,461 --> 00:01:45,461
+ochii noştri ar fi
+de mărimea grapefruitului.
+
+32
+00:01:45,461 --> 00:01:48,830
+Globii măriţi ai tarsierului nu au evoluat
+ca să-l facă mai drăguţ,
+
+33
+00:01:48,830 --> 00:01:51,881
+ci ca să capteze
+cât de multă lumină posibil.
+
+34
+00:01:51,881 --> 00:01:55,041
+Ochii mai mari au deschideri
+mai mari, numite pupile,
+
+35
+00:01:55,041 --> 00:01:56,561
+şi lentile mai mari,
+
+36
+00:01:56,561 --> 00:01:59,831
+lăsând mai multă lumină
+să se concentreze pe receptori.
+
+37
+00:01:59,831 --> 00:02:04,223
+În timp ce tarsierii scanează scena
+nocturnă cu pupilele lor enorme,
+
+38
+00:02:04,223 --> 00:02:08,431
+pisicile folosesc ochii strălucitori
+pentru acelaşi lucru.
+
+39
+00:02:08,431 --> 00:02:12,351
+Ochii pisicilor îşi iau lumina dintr-o
+structură numită tapetum lucidum
+
+40
+00:02:12,352 --> 00:02:14,181
+care stă în spatele fotoreceptorilor.
+
+41
+00:02:14,181 --> 00:02:17,521
+Această structură e făcută din straturi
+de celule similare cu oglinda
+
+42
+00:02:17,521 --> 00:02:18,732
+ce conţin cristale
+
+43
+00:02:18,733 --> 00:02:22,336
+care trimit lumina receptată
+înapoi către fotoreceptori
+
+44
+00:02:22,336 --> 00:02:24,062
+şi în afara ochiului.
+
+45
+00:02:24,062 --> 00:02:25,812
+Rezultatul e o strălucire stranie
+
+46
+00:02:25,812 --> 00:02:30,342
+şi le dă fotoreceptorilor
+o a doua şansă de a detecta protoni.
+
+47
+00:02:30,342 --> 00:02:35,973
+De fapt, acest sistem a inspirat ochii
+de pisică pe care-i folosim în circulaţie.
+
+48
+00:02:35,973 --> 00:02:39,653
+Broaştele râioase, pe de altă
+parte, s-au adaptat la încet.
+
+49
+00:02:39,653 --> 00:02:41,376
+Ei pot forma o imagine
+
+50
+00:02:41,376 --> 00:02:45,701
+chiar dacă doar un proton pe secundă
+le atinge fotoreceptorul.
+
+51
+00:02:45,701 --> 00:02:47,846
+Obţin asta cu fotoreceptori
+
+52
+00:02:47,846 --> 00:02:50,883
+care sunt de 25 de ori mai înceţi
+decât ai oamenilor.
+
+53
+00:02:50,883 --> 00:02:54,486
+Asta înseamnă că broaştele pot colecta
+fotoni pentru cel mult patru secunde,
+
+54
+00:02:54,486 --> 00:02:57,362
+lăsându-i să adune mult mai mulţi
+decât pot ochii noştri
+
+55
+00:02:57,362 --> 00:02:59,743
+la fiecare interval vizual de timp.
+
+56
+00:02:59,743 --> 00:03:03,762
+Dezavantajul e că aceasta face broaştele
+să reacţioneze foarte încet
+
+57
+00:03:03,762 --> 00:03:08,034
+deoarece primesc o nouă imagine
+doar o dată la patru secunde.
+
+58
+00:03:08,034 --> 00:03:11,474
+Din fericire, s-au obişnuit cu vânarea
+prăzii lente.
+
+59
+00:03:11,474 --> 00:03:14,792
+Între timp, noaptea zumzăie de insecte,
+
+60
+00:03:14,793 --> 00:03:16,792
+ca moliile șoim,
+
+61
+00:03:16,792 --> 00:03:21,254
+care-și văd florile preferate în culori,
+chiar şi în timpul unei nopţi înstelate.
+
+62
+00:03:21,254 --> 00:03:23,423
+Reuşesc asta
+printr-o mişcare surprinzătoare -
+
+63
+00:03:23,423 --> 00:03:26,213
+eliminând detaliile
+din percepţia lor vizuală.
+
+64
+00:03:26,213 --> 00:03:29,684
+Informaţia din fotoreceptorii vecini
+e grupată în creierele lor,
+
+65
+00:03:29,684 --> 00:03:32,244
+așa că prinderea fotonilor
+din fiecare grup e mai mare
+
+66
+00:03:32,244 --> 00:03:34,745
+în comparaţie cu receptorii individuali.
+
+67
+00:03:34,745 --> 00:03:38,422
+Totuşi, gruparea fotoreceptorilor
+pierde detaliile din imagini,
+
+68
+00:03:38,422 --> 00:03:42,014
+deoarece detaliile mici cer o grilă
+fină de fotoreceptori,
+
+69
+00:03:42,014 --> 00:03:45,784
+fiecare detectând fotoni dintr-un punct
+mic din spaţiu.
+
+70
+00:03:45,784 --> 00:03:49,573
+Secretul e să echilibreze nevoia
+de fotoni cu pierderea detaliului
+
+71
+00:03:49,574 --> 00:03:51,243
+pentru a-şi găsi florile.
+
+72
+00:03:51,243 --> 00:03:54,194
+Fie că ochii sunt înceţi, enormi,
+strălucitori sau aspri,
+
+73
+00:03:54,194 --> 00:03:57,244
+e combinaţia
+acestor adaptări biologice
+
+74
+00:03:57,245 --> 00:04:00,956
+care le dă animalelor nocturne
+puterile vizuale unice.
+
+75
+00:04:00,956 --> 00:04:03,906
+Imaginează-ţi cum ar fi să vezi
+prin ochii lor
+
+76
+00:04:03,907 --> 00:04:06,676
+lumea care se trezeşte
+când Soarele apune.
+

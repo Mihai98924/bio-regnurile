@@ -1,0 +1,129 @@
+body,html,.table{
+	margin:0;
+	border:0;
+	padding: 0;
+	width: 100%;
+}
+body{
+	font-family: 'JosefinSans-Regular';
+}
+.top{
+	width:100%;
+	height:100px;
+	z-index: 3;
+    top: 0px;
+}
+.top h1{
+	font-family: 'JosefinSans-Light';
+	float:left;
+	font-size:33px;
+}
+.top h1 a{
+	text-decoration: none;
+	color:rgb(14,28,35);
+}
+
+.top ul li{
+	padding-top:15px;
+	padding-left:10px;
+	color:rgb(14,28,35);
+	display: inline-block;
+}
+.table{
+	display: table;
+}
+.top,.bt,.bg{
+	display: table-row;
+	width:100%;
+}
+.cell{
+	display:table-cell;
+}
+.cell1 ul{
+	float:right;
+	margin-right:20px;
+}
+.cell1 h1{
+	float:left;
+	margin-left:19px;
+}
+.cell1{
+	vertical-align: middle;
+	background-color: white;
+	z-index:3;
+}
+.main{
+	height:auto;
+	width:10%;
+	display: table-row;
+}
+.cell2{
+	padding:40px;
+	background-color:rgb(233,241,218);
+	color:rgb(14,28,35);
+	width:50%;
+	height:300px;
+	margin-top:10px;
+	box-sizing: border-box;
+}
+.cell2 h2{
+	margin:0;
+	border:0;
+}
+h2{
+	text-align: center;
+	font-weight: bold;
+}
+h3{
+	text-align: center;
+	font-family:'JosefinSans-Light';
+}
+.cell2 a{
+	color:rgb(14,28,35);
+}
+.poza{
+	z-index: -1;
+	position:relative;
+	top:100px;
+	width:80%;
+	margin-left:10%;
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position: center;
+    background:url("../imagini/._11111.jpeg");
+    background-attachment: fixed;
+}
+.main{
+	width:100%;
+}
+.main .cell2{
+	z-index: 0;
+	position:absolute;
+	top:100px;
+	height:auto;
+	margin-left:25%;
+	margin-right:inherit;
+}
+.cell2{
+	margin: auto;
+	padding:20px;
+	border: 10px;
+    box-shadow: 2px 2px 5px grey;
+}
+.cell1{
+	vertical-align: middle;
+	position: sticky;
+    top: 0;
+	background-color: white;
+}
+.cell1 ul li a{
+	text-decoration: none;
+	color:rgb(14,28,35);
+	transition-duration: 0.4s;
+}
+.cell ul li a:hover{
+	color:rgb(75,115,82);
+}
+#curent{
+	color:rgb(75,115,82);
+}

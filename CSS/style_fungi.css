@@ -1,0 +1,149 @@
+body{
+	font-family:'JosefinSans-Regular';
+}
+.table{
+	display:table;
+}
+.top,.main,.main2,.main3,.buttons{
+	display:table-row;
+	width:100%;
+}
+.cell{
+	display: table-cell;
+}
+body,html,.table{
+	margin:0;
+	border:0;
+	padding: 0;
+	width: 100%;
+}
+.top{
+	width:100%;
+	height:100px;
+	z-index: 3;
+    top: 0px;
+}
+.top h1{
+	font-family: 'JosefinSans-Light';
+	float:left;
+	font-size:33px;
+}
+.top h1 a{
+	text-decoration: none;
+	color:rgb(14,28,35);
+}
+
+.top ul li{
+	padding-top:15px;
+	padding-left:10px;
+	color:rgb(14,28,35);
+	display: inline-block;
+}
+.cell1 ul{
+	float:right;
+	margin-right:20px;
+}
+.cell1 h1{
+	float:left;
+	margin-left:19px;
+}
+.cell1{
+	vertical-align: middle;
+	background-color: white;
+	z-index:3;
+    position: sticky;
+    top: 0;
+}
+.cell1 ul li a{
+	text-decoration: none;
+	color:rgb(14,28,35);
+	transition-duration: 0.4s;
+}
+.cell ul li a:hover{
+	color:rgb(75,115,82);
+}
+#curent{
+	color:rgb(75,115,82);
+}
+.main{
+	background:url("../imagini/schizophyllum_commune.jpg");
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position: top;
+    background-attachment: fixed;
+	width:100%;
+	height:700px;
+}
+.cell2{
+	position:absolute;
+	top:250px;
+	background-color:white;
+	left:26%;
+	vertical-align: bottom;
+	text-align:center;
+	width:650px;
+	height:200px;
+	font-size:40px;
+	padding:20px;
+}
+.cell3{
+	background-color:#4b7352;
+	padding:20px;
+	color:white;
+	text-indent: 20px;
+	font-size:20px;
+}
+a button{
+    background:white;
+    display:inline-block;
+    padding:20px;
+    margin-left:20px;
+    transition-duration: 0.4s;
+    font-weight:bold;
+    border-radius:8px;
+    border:#935eff;
+}
+a button:hover{
+    color:white;
+    transform: scale(1.5);
+}
+#curiozitate{
+    border:#76787a;
+}
+#curiozitate:hover{
+    background:url("../imagini/questionmark.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+.buttons{
+    height:auto;
+    width:100%;
+    background-color:#C8E379;
+    font-family:'JosefinSans-Regular';
+}
+.cell5{
+    vertical-align: middle;
+    padding:30px;
+    text-align: center;
+    font-family:'JosefinSans-Regular';
+}
+#mucegai{
+    border:#ebeb28;
+}
+#mucegai:hover{
+    background:url("../imagini/mucegai.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    
+}
+#ciuperci{
+    border:rgb(134,87,59);
+}
+#ciuperci:hover{
+    background:url("../imagini/20-juin-5-pleurotes-copie.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}

@@ -1,0 +1,161 @@
+/*la toate*/
+body{
+	font-family:'JosefinSans-Regular';
+}
+.table{
+	display:table;
+}
+.top,.main,.main2,.main3,.buttons{
+	display:table-row;
+}
+.cell{
+	display: table-cell;
+}
+body,html,.table{
+	margin:0;
+	border:0;
+	padding: 0;
+	width: 100%;
+}
+.top{
+	height:100px;
+    width:100%;
+    position: sticky;
+    top: 0;
+}
+.top h1{
+	font-family: 'JosefinSans-Light';
+	float:left;
+	font-size:33px;
+}
+.top h1 a{
+	text-decoration: none;
+	color:rgb(14,28,35);
+}
+
+.top ul li{
+	padding-top:15px;
+	padding-left:10px;
+	color:rgb(14,28,35);
+	display: inline-block;
+}
+.cell1 ul{
+	float:right;
+	margin-right:20px;
+}
+.cell1 h1{
+	float:left;
+	margin-left:19px;
+}
+.cell1{
+	vertical-align: middle;
+	background-color: white;
+	z-index:3;
+    position: sticky;
+    top: 0;
+}
+.cell1 ul li a{
+	text-decoration: none;
+	color:rgb(14,28,35);
+	transition-duration: 0.4s;
+}
+.cell ul li a:hover{
+	color:rgb(75,115,82);
+}
+#curent{
+	color:#964F4C;
+}
+/*pana aici*/
+a button{
+    background:white;
+    display:inline-block;
+    padding:20px;
+    margin-left:20px;
+    transition-duration: 0.4s;
+    font-weight:bold;
+    border-radius:8px;
+    border:#935eff;
+}
+a button:hover{
+    color:white;
+    transform: scale(1.5);
+}
+#curiozitate{
+    border:#76787a;
+}
+#curiozitate:hover{
+    background:url("../imagini/questionmark.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+.buttons{
+    height:auto;
+    width:100%;
+    background-color:#C8E379;
+    font-family:'JosefinSans-Regular';
+}
+.cell5{
+    vertical-align: middle;
+    padding:30px;
+    text-align: center;
+    font-family:'JosefinSans-Regular';
+}
+#feriga{
+    border:#88B04B;
+}
+#feriga:hover{
+    background:url("../imagini/feriga_arborescenta_3.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+#angiosperme{
+    border:#964F4C;
+    background:url("../imagini/giphy.gif");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    color:white;
+}
+#angiosperme:hover{
+    background:url("../imagini/giphy.gif");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+.main,.main2{
+    height:700px;
+}
+.main{
+    width:50%;
+    float:left;
+    background:url("../imagini/giphy.gif");
+    background-size:cover;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.main2{
+    width:50%;
+    padding:20px;
+    border-bottom: 30px solid #964F4C;
+    border-top: 30px solid #964F4C;
+    border-right:30px solid #964F4C;
+    float:right;
+    box-sizing: border-box;
+}
+.main2 h2{
+    font-size: 42px;
+    text-indent:42px;
+}
+.main2 p{
+    font-size: 20px;
+    text-indent:20px;
+}
+.main2 li{
+    font-size:20px;
+}
+.main2 h3{
+    font-size:24px;
+    text-indent: 35px;
+}

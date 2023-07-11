@@ -1,0 +1,380 @@
+﻿1
+00:00:00,000 --> 00:00:07,000
+Traducător: Mirel-Gabriel Alexa
+Corector: Cristina Nicolae
+
+2
+00:00:07,908 --> 00:00:12,310
+Pe tot parcursul anului, cercetătorii
+din sute de spitale din întreaga lume
+
+3
+00:00:12,310 --> 00:00:15,019
+colectează probe de la pacienții cu gripă
+
+4
+00:00:15,019 --> 00:00:19,179
+și le trimit la experții virusologi de top
+cu un singur scop:
+
+5
+00:00:19,179 --> 00:00:23,268
+să construiască vaccinul
+pentru următorul sezon gripal.
+
+6
+00:00:23,268 --> 00:00:26,379
+Dar de ce avem nevoie
+de unul nou în fiecare an?
+
+7
+00:00:26,379 --> 00:00:30,879
+Vaccinurile pentru boli precum oreion
+și rubeolă oferă o protecție nelimitată
+
+8
+00:00:30,879 --> 00:00:33,628
+cu două injecții făcute în copilărie.
+
+9
+00:00:33,628 --> 00:00:36,620
+Deci, cu ce e diferită gripa?
+
+10
+00:00:36,620 --> 00:00:39,790
+Doi factori fac gripa o țintă complicată.
+
+11
+00:00:39,790 --> 00:00:44,210
+În primul rând există
+peste 100 de subtipuri de virus gripal,
+
+12
+00:00:44,210 --> 00:00:48,309
+iar cele aflate în circulație
+alternează de la an la an.
+
+13
+00:00:48,309 --> 00:00:52,533
+În al doilea rând, în codul genetic
+al gripei apar mutații mult mai des
+
+14
+00:00:52,533 --> 00:00:54,820
+decât la celelalte virusuri.
+
+15
+00:00:54,820 --> 00:01:00,910
+Gripa se răspândește transformând celulele
+gazdei în „fabrici” ce produc virusul.
+
+16
+00:01:00,910 --> 00:01:05,681
+Când virusul e introdus în celula gazdă,
+acesta își elimină materialul genetic,
+
+17
+00:01:05,681 --> 00:01:07,978
+ce își croiește drum spre nucleu.
+
+18
+00:01:07,978 --> 00:01:11,841
+Acolo mașinăria celulară ce copiază
+în mod normal genele gazdei,
+
+19
+00:01:11,841 --> 00:01:14,881
+începe să replice genele virale,
+
+20
+00:01:14,882 --> 00:01:18,317
+creând mai multe copii ale virusului.
+
+21
+00:01:18,317 --> 00:01:23,051
+Noili viruși sunt depozitați în celulă
+până când aceasta se rupe,
+
+22
+00:01:23,052 --> 00:01:29,422
+eliminând astfel noii viruși gripali
+ce vor infecta alte celule.
+
+23
+00:01:29,422 --> 00:01:31,892
+Cei mai mulți viruși
+urmează acest model.
+
+24
+00:01:31,892 --> 00:01:35,982
+Deosebirea virusului gripal
+e că materialul său genetic nu e ADN-ul,
+
+25
+00:01:35,982 --> 00:01:39,303
+ci o substanță asemănătoare denumită ARN.
+
+26
+00:01:39,303 --> 00:01:44,193
+Iar virușii ARN
+suferă mutații mult mai des.
+
+27
+00:01:44,193 --> 00:01:46,094
+Atunci când celulele sintetizează ADN,
+
+28
+00:01:46,094 --> 00:01:50,354
+o enzimă recunoaște greșelile
+și le corectează,
+
+29
+00:01:50,354 --> 00:01:54,854
+dar mecanismul de sinteză al ARN-ului
+nu dispune de acest sistem de siguranță.
+
+30
+00:01:54,854 --> 00:02:00,003
+Dacă apar erori, acestea rămân
+creând astfel noi variante ale virusului.
+
+31
+00:02:00,003 --> 00:02:01,393
+De ce e aceasta o problemă?
+
+32
+00:02:01,393 --> 00:02:04,623
+Deoarece vaccinurile se bazează
+pe recunoaștere.
+
+33
+00:02:04,623 --> 00:02:09,364
+Vaccinul antigripal include
+o parte din substanțele aflate
+
+34
+00:02:09,364 --> 00:02:12,556
+pe suprafața virusului, denumite antigene.
+
+35
+00:02:12,556 --> 00:02:15,654
+Corpul identifică aceste fragmente
+ca fiind străine
+
+36
+00:02:15,654 --> 00:02:19,063
+și răspunde producând anticorpi,
+
+37
+00:02:19,063 --> 00:02:22,094
+construiți astfel pentru a se potrivi
+cu acele antigene.
+
+38
+00:02:22,094 --> 00:02:25,154
+Când o persoană vaccinată
+întâlnește acel virus,
+
+39
+00:02:25,154 --> 00:02:29,614
+anticorpii programați anterior ajută
+sistemul imun să identifice amenințarea
+
+40
+00:02:29,614 --> 00:02:33,695
+și să se mobilizeze rapid
+pentru a preveni infecția.
+
+41
+00:02:33,695 --> 00:02:37,886
+Acele antigene sunt diferite
+pentru fiecare tip de virus gripal.
+
+42
+00:02:37,886 --> 00:02:41,326
+Dacă vaccinarea a pregătit
+sistemul imun pentru un anumit tip,
+
+43
+00:02:41,326 --> 00:02:44,577
+un al tip ar putea produce infecția.
+
+44
+00:02:44,577 --> 00:02:47,085
+Chiar și cu același tip de virus gripal,
+
+45
+00:02:47,085 --> 00:02:51,216
+acele mutații genetice rapide
+pot schimba antigenele de suprafață
+
+46
+00:02:51,216 --> 00:02:55,366
+suficient încât anticorpii
+să nu le mai recunoască.
+
+47
+00:02:55,366 --> 00:02:57,368
+Pentru a face lucrurile și mai complicate,
+
+48
+00:02:57,368 --> 00:03:03,167
+uneori două tipuri diferite se combină
+pentru a rezulta un virus hibrid.
+
+49
+00:03:03,167 --> 00:03:06,286
+Toate acestea fac vaccinarea antigripală
+
+50
+00:03:06,286 --> 00:03:10,067
+ca și cum ai încerca să lovești
+o țintă mobilă ce se transformă.
+
+51
+00:03:10,067 --> 00:03:13,127
+Din acest motiv oamenii de știință
+colectează constant informații
+
+52
+00:03:13,127 --> 00:03:15,108
+despre tipul de virus circulant
+
+53
+00:03:15,108 --> 00:03:17,819
+și verifică ce mutații au avut loc
+
+54
+00:03:17,819 --> 00:03:20,447
+față de versiunile anterioare.
+
+55
+00:03:20,447 --> 00:03:23,438
+De două ori pe an,
+Organizația Mondială a Sănătății
+
+56
+00:03:23,438 --> 00:03:26,387
+adună experți pentru a analiza
+toate aceste informații,
+
+57
+00:03:26,387 --> 00:03:29,558
+având loc o întâlnire
+pentru fiecare emisferă.
+
+58
+00:03:29,558 --> 00:03:33,787
+Oamenii de știință hotărăsc ce tip
+de virus gripal vor include în acel sezon,
+
+59
+00:03:33,788 --> 00:03:38,090
+alegând patru tipuri pentru vaccinul
+tetravalent aflat în folosință în prezent.
+
+60
+00:03:38,090 --> 00:03:40,398
+În ciuda manevrelor evazive
+ale virusului gripal,
+
+61
+00:03:40,398 --> 00:03:45,808
+recent, predicțiile grupului de experți
+au fost aproape întotdeauna corecte.
+
+62
+00:03:45,808 --> 00:03:50,108
+Chiar dacă virusul suferă mutații,
+vaccinul e destul de eficient,
+
+63
+00:03:50,109 --> 00:03:53,309
+astfel încât o persoană vaccinată
+ce se infectează
+
+64
+00:03:53,309 --> 00:03:58,139
+va avea o boală mai blândă și mai scurtă
+decât dacă nu s-ar fi vaccinat.
+
+65
+00:03:58,139 --> 00:04:01,560
+Vaccinarea ajută de asemenea
+la protejarea altor oameni din comunitate,
+
+66
+00:04:01,560 --> 00:04:04,110
+ce din motive medicale nu se pot vaccina,
+
+67
+00:04:04,110 --> 00:04:07,542
+prevenind ca persoanele din jurul lor
+să devină purtătoare ale virusului.
+
+68
+00:04:07,542 --> 00:04:09,778
+Aceasta poartă numele
+de imunitate de grup.
+
+69
+00:04:09,778 --> 00:04:12,049
+Vaccinul nu te poate îmbolnăvi de gripă.
+
+70
+00:04:12,050 --> 00:04:16,199
+Acesta conține un virus inactivat
+ce nu e capabil să te îmbolnăvească.
+
+71
+00:04:16,199 --> 00:04:19,000
+Te-ai putea simți obosit
+și moleșit după ce îl faci,
+
+72
+00:04:19,000 --> 00:04:20,880
+dar asta nu înseamnă că te-ai infectat.
+
+73
+00:04:20,880 --> 00:04:23,841
+E răspunsul imun normal la vaccin.
+
+74
+00:04:23,841 --> 00:04:27,861
+În unele părți ale lumii se folosește
+un vaccin inhalator, în locul injecției,
+
+75
+00:04:27,861 --> 00:04:30,709
+ce conține un virus atenuat.
+
+76
+00:04:30,709 --> 00:04:35,041
+Acesta e de asemeni sigur
+pentru majoritatea oamenilor.
+
+77
+00:04:35,041 --> 00:04:38,512
+Ar fi riscant doar pentru cei cu sistem
+imunitar compromis,
+
+78
+00:04:38,512 --> 00:04:41,920
+dar de obicei aceștia
+nu primesc vaccinuri vii.
+
+79
+00:04:41,920 --> 00:04:45,951
+Între timp, oamenii de știință lucrează
+la dezvoltarea unui vaccin universal
+
+80
+00:04:45,951 --> 00:04:49,502
+ce ne va proteja de orice tip gripal,
+chiar și de cele mutante.
+
+81
+00:04:49,502 --> 00:04:53,562
+Dar până atunci, vânătoarea pentru
+următorul vaccin a început.
+
